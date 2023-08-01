@@ -1,3 +1,3 @@
 # Search-bar image
 
-![Barra de busqueda](https://github.com/Alvarosanchezz3/Search-bar/assets/99328696/a9c93ce6-630d-4566-b0c4-1e813b6e564c)
+![Barra de busqueda](https://github.com/Alvarosanchezz3/Search-bar/assets/99328696/33dfb0e9-8452-45b5-aa57-f6bee7953cb4)
